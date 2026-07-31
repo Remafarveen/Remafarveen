@@ -1,18 +1,4 @@
-I will give the complete **professional `README.md`** again in 3 parts.
 
-**Important changes made:**
-
-* Username updated: `Remafarveen`
-* Removed fake profile/banner claims
-* No fake achievements
-* Professional Infosys/MNC style
-* Honest skill levels
-* Added soft skills
-* Added your certifications
-* Added project mind map
-* Added GitHub stats correctly
-
-## PART 1/3 — Introduction + Career Objective + Soft Skills
 
 ```markdown
 <div align="center">
@@ -129,9 +115,9 @@ Software Development
 
 </div>
 ```
-## PART 2/3 — Internship + Technical Skills + Skill Overview + Certifications
 
-Paste this below Part 1 in your `README.md`.
+
+
 
 ```markdown id="7p8qk"
 <br>
@@ -281,9 +267,7 @@ Learning continuously and building meaningful solutions 🚀
 
 </div>
 ```
-## PART 3/3 — Projects + Mind Map + Games + GitHub Stats + Footer
 
-Paste this below Part 2 in your `README.md`.
 
 ```markdown id="k6v9pz"
 <br>
@@ -471,5 +455,5 @@ Every line of code is a step towards innovation 🚀
 </div>
 ```
 
-#
+
 
