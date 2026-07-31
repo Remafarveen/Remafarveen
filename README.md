@@ -1,6 +1,5 @@
 
 
-```markdown
 <div align="center">
 
 # 🚀 Welcome To My GitHub Profile
@@ -9,23 +8,17 @@
 
 </div>
 
-
 <br>
-
 
 <h1 align="center">
-👩‍💻 REMA FARVEEN SHAHUL HAMMED
+REMA FARVEEN SHAHUL HAMMED
 </h1>
 
-
 <p align="center">
-
 B.Sc Information Technology Student  
 <br>
-Passionate About Software Development | AI | Full Stack Development
-
+Aspiring Software Engineer | AI Enthusiast | Full Stack Developer
 </p>
-
 
 <div align="center">
 
@@ -33,427 +26,291 @@ Passionate About Software Development | AI | Full Stack Development
 
 </div>
 
+<br>
+
+## 👩‍💻 About Me
+
+Hello! I am **Rema Farveen Shahul Hammed**, a B.Sc Information Technology student passionate about software development, artificial intelligence, and modern technologies.
+
+I enjoy exploring new technologies, developing creative applications, and improving my programming skills through continuous learning and practical projects.
 
 <br>
 
+## 🎯 Career Objective
 
-# 👩‍💻 About Me
+A motivated IT student seeking opportunities to apply my programming knowledge, technical skills, and problem-solving abilities in real-world software projects.
 
+Passionate about learning emerging technologies and creating efficient solutions while improving my development skills.
 
-Hello! I am **Rema Farveen Shahul Hammed**, a B.Sc Information Technology student interested in software development, artificial intelligence, and emerging technologies.
-
-I enjoy learning new technologies, building practical applications, and improving my programming skills through projects and continuous practice.
-
-
-<br>
-
-
-# 🎯 Career Objective
-
-
-A passionate IT student seeking opportunities to apply programming knowledge, technical skills, and problem-solving abilities in real-world software projects.
-
-Interested in developing innovative solutions while continuously learning modern technologies and industry practices.
-
-Aspiring to become a skilled software developer and contribute effectively to a professional technology environment.
-
+Aspiring to grow as a software developer and contribute effectively in a professional technology environment.
 
 <br>
 
+## 🌟 Soft Skills
 
-# 🌟 Soft Skills
-
-
-| Skill | Strength |
-|---|---|
-| 🧩 Problem Solving | Logical thinking and solution-oriented approach |
-| 🤝 Team Collaboration | Ability to work effectively with teams |
-| 📚 Quick Learning | Adaptable to new technologies |
-| 💬 Communication | Sharing ideas clearly and effectively |
-| ⏳ Time Management | Managing tasks with proper priorities |
-| 🎯 Adaptability | Flexible towards new challenges |
-| 🔍 Attention To Detail | Focused on accuracy and quality |
-| 💡 Creative Thinking | Developing innovative approaches |
-
+| Skill                  | Strength                                        |
+| ---------------------- | ----------------------------------------------- |
+| 🧩 Problem Solving     | Logical thinking and solution-oriented approach |
+| 🤝 Team Collaboration  | Working effectively with teams                  |
+| 📚 Quick Learning      | Adapting to new technologies quickly            |
+| 💬 Communication       | Expressing ideas clearly and professionally     |
+| ⏳ Time Management      | Managing tasks with proper priorities           |
+| 🎯 Adaptability        | Flexible towards new challenges                 |
+| 🔍 Attention To Detail | Maintaining accuracy and quality                |
+| 💡 Creative Thinking   | Finding innovative approaches                   |
 
 <br>
 
-
-# 🌱 Learning Journey
-
+## 🌱 Learning Journey
 
 ```
-
-Technology Exploration
-|
-|
-↓
-
-Programming
-|
-↓
-
+Programming Fundamentals
+          |
+          ↓
 Web Development
-|
-↓
-
+          |
+          ↓
+Full Stack Development
+          |
+          ↓
 Artificial Intelligence
-|
-↓
-
+          |
+          ↓
 Software Development
-
 ```
 
-
 <br>
-
 
 <div align="center">
 
-### ✨ Code • Learn • Create • Improve ✨
+✨ Code • Learn • Create • Improve ✨
 
 </div>
-```
 
 
-
-
-```markdown id="7p8qk"
-<br>
-
+<div align="center">
 
 # 💼 Internship Experience
 
-
-<div align="center">
-
-
-| Internship | Details |
-|---|---|
-| 🌐 Web Development Internship | Learned frontend development concepts, website structure, and responsive design fundamentals |
-| 🤖 Artificial Intelligence Internship | Explored AI concepts, machine learning basics, and practical applications |
-| 💻 Python Full Stack Development Internship | Nandha Infotech, Coimbatore — Learned full stack development workflow and Python-based application development |
-
-
 </div>
 
+| Internship                                  | Details                                                                                                        |
+| ------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| 🌐 Web Development Internship               | Learned frontend development concepts, website structure, responsive design fundamentals, and web technologies |
+| 🤖 Artificial Intelligence Internship       | Explored AI concepts, machine learning basics, and practical AI applications                                   |
+| 💻 Python Full Stack Development Internship | Nandha Infotech, Coimbatore — Learned Python-based full stack development concepts and application workflow    |
 
 <br>
 
+<div align="center">
 
 # 🛠️ Technical Skills
 
-
-<div align="center">
-
+</div>
 
 ## 👨‍💻 Programming Languages
 
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,js" />
-
-
-<br><br>
-
+</p>
 
 ## 🌐 Web Technologies
 
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
-
-
-<br><br>
-
+</p>
 
 ## 🗄️ Database Technologies
 
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
+## ⚙️ Tools & Platforms
 
-<br><br>
-
-
-## ⚙️ Tools & Technologies
-
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-
-
-</div>
-
+</p>
 
 <br>
-
 
 # 📊 Skill Overview
 
-
-| Technology | Level |
-|---|---|
-| Python | 🟢 Intermediate |
-| Java | 🟢 Intermediate |
-| HTML | 🟢 Intermediate |
-| CSS | 🟢 Intermediate |
-| JavaScript | 🟢 Intermediate |
-| SQL | 🟢 Intermediate |
-| RDBMS | 🟢 Intermediate |
-| C | 🟡 Basic |
-| C++ | 🟡 Basic |
-| React.js | 🟡 Basic |
-| Node.js | 🟡 Basic |
-| PHP | 🟡 Basic |
-| MongoDB | 🟡 Basic |
-| Linux | 🟡 Basic |
-| Animation Techniques | 🟡 Basic |
-
+| Technology           | Level           |
+| -------------------- | --------------- |
+| Python               | 🟢 Intermediate |
+| Java                 | 🟢 Intermediate |
+| HTML                 | 🟢 Intermediate |
+| CSS                  | 🟢 Intermediate |
+| JavaScript           | 🟢 Intermediate |
+| SQL                  | 🟢 Intermediate |
+| RDBMS                | 🟢 Intermediate |
+| C                    | 🟡 Basic        |
+| C++                  | 🟡 Basic        |
+| React.js             | 🟡 Basic        |
+| Node.js              | 🟡 Basic        |
+| PHP                  | 🟡 Basic        |
+| MongoDB              | 🟡 Basic        |
+| Linux                | 🟡 Basic        |
+| Animation Techniques | 🟡 Basic        |
 
 <br>
-
 
 # 📜 Certifications & Workshops
 
-
-| Certification / Workshop | Category |
-|---|---|
-| Web Development Course | 🌐 Web Development |
-| Web Development Internship | 🌐 Web Development |
-| Artificial Intelligence Course | 🤖 Artificial Intelligence |
-| Artificial Intelligence Internship | 🤖 Artificial Intelligence |
-| Full Stack Development Course | 💻 Full Stack Development |
-| Python Full Stack Development Internship — Nandha Infotech, Coimbatore | 🐍 Python Full Stack |
-| Java Masterclass — One Day Workshop | ☕ Java |
-| Future Quantum Computing Fundamentals: From Qubits To Applications — One Day Workshop | ⚛️ Quantum Computing |
-
+| Certification / Workshop                                                              | Category                   |
+| ------------------------------------------------------------------------------------- | -------------------------- |
+| Web Development Course                                                                | 🌐 Web Development         |
+| Web Development Internship                                                            | 🌐 Web Development         |
+| Artificial Intelligence Course                                                        | 🤖 Artificial Intelligence |
+| Artificial Intelligence Internship                                                    | 🤖 Artificial Intelligence |
+| Full Stack Development Course                                                         | 💻 Full Stack Development  |
+| Python Full Stack Development Internship — Nandha Infotech, Coimbatore                | 🐍 Python Full Stack       |
+| Java Masterclass — One Day Workshop                                                   | ☕ Java                     |
+| Future Quantum Computing Fundamentals: From Qubits To Applications — One Day Workshop | ⚛️ Quantum Computing       |
 
 <br>
-
-
-# 🚀 Areas Of Interest
-
-
-```
-
-💻 Software Development
-
-```
-    +
-```
-
-🤖 Artificial Intelligence
-
-```
-    +
-```
-
-🌐 Full Stack Applications
-
-```
-    +
-```
-
-⚡ Emerging Technologies
-
-```
-
-
-<br>
-
 
 <div align="center">
 
-Learning continuously and building meaningful solutions 🚀
+## 🚀 Areas Of Interest
+
+💻 Software Development
+🤖 Artificial Intelligence
+🌐 Full Stack Applications
+⚡ Emerging Technologies
 
 </div>
-```
 
 
-```markdown id="k6v9pz"
-<br>
-
+<div align="center">
 
 # 🚀 Project Showcase
 
-
-<div align="center">
-
+</div>
 
 ## 🧠 Project Mind Map
 
+```text
+                         🚀 MY PROJECTS
 
+                              ▲
+
+                              │
+
+        ┌─────────────────────┼─────────────────────┐
+
+        │                     │                     │
+
+
+     🤖 AI PROJECT        🌐 WEB PROJECT       💻 SOFTWARE PROJECT
+
+        │                     │                     │
+
+        ▼                     ▼                     ▼
+
+
+  Artificial            Full Stack          Application
+ Intelligence            Web               Development
+ Solutions             Development          Projects
+
+
+        │                     │                     │
+
+        └─────────────────────┼─────────────────────┘
+
+                              │
+
+                              ▼
+
+                 Creative Technology Solutions
 ```
-
-```
-                     🚀 MY PROJECTS
-
-                          ▲
-
-                          │
-
-    ┌─────────────────────┼─────────────────────┐
-
-    │                     │                     │
-```
-
-🤖 AI PROJECT        🌐 WEB PROJECT       💻 SOFTWARE PROJECT
-
-```
-    │                     │                     │
-
-    ▼                     ▼                     ▼
-```
-
-Artificial              Full Stack           Application
-Intelligence             Web                 Development
-Solutions              Development           Projects
-
-```
-    │                     │                     │
-
-    └─────────────────────┼─────────────────────┘
-
-                          │
-
-                          ▼
-
-
-              Creative Technology Solutions
-```
-
-```id="cn8qpx"
-
-
-</div>
-
-
 
 <br>
-
 
 # ⭐ Featured Projects
 
-
-| Project | Description | Technologies |
-|---|---|---|
-| 🤖 AI Based Project | Application developed using AI concepts and programming logic | Python / AI |
-| 🌐 Full Stack Application | Web-based application development project | HTML, CSS, JavaScript, React, Node.js |
-| 💻 Software Solution | Programming based application focusing on problem solving | Python / Java |
-
-
+| Project                   | Description                                                   | Technologies                          |
+| ------------------------- | ------------------------------------------------------------- | ------------------------------------- |
+| 🤖 AI Based Project       | Application developed using AI concepts and programming logic | Python / AI Concepts                  |
+| 🌐 Full Stack Application | Web application development project                           | HTML, CSS, JavaScript, React, Node.js |
+| 💻 Software Solution      | Programming-based application focusing on problem solving     | Python / Java                         |
 
 <br>
-
 
 # 🎮 Interactive Coding Projects
 
-
 ## 🐍 Snake Game
 
+```text
+        🟩🟩🟩
+              🟩
+              🟩
+              🟩
 
+          🐍 SNAKE GAME
+
+   Logic Building + Programming Practice
 ```
-
-```
-    🟩🟩🟩
-          🟩
-          🟩
-          🟩
-
-      🐍 SNAKE GAME
-```
-
-Logic Building + Programming Practice
-
-```id="7j5x3m"
-
-
 
 <br>
-
 
 ## 🚀 Rocket Shooting Game
 
+```text
+                 🚀
 
+              🔥🔥🔥
+
+                 🎯
+
+
+     Welcome To My GitHub Portfolio
+
+          Shot Through Code 🚀
 ```
-
-```
-             🚀
-
-          🔥🔥🔥
-
-             🎯
-```
-
-Welcome To My GitHub Portfolio
-
-```
-    Shot Through Code 🚀
-```
-
-```id="fjr4v7"
-
-
 
 <br>
-
 
 # 📈 GitHub Statistics
 
-
 <div align="center">
-
 
 <img src="https://github-readme-stats.vercel.app/api?username=Remafarveen&show_icons=true&theme=transparent&hide_border=true"/>
 
-
 <br><br>
-
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Remafarveen&theme=transparent&hide_border=true"/>
 
-
 </div>
 
-
-
 <br>
-
 
 # 💻 Coding Philosophy
 
-
-```
-
+```text
 Learn → Practice → Build → Improve
 
 Every line of code is a step towards innovation 🚀
-
-```id="2h3p4m"
-
-
+```
 
 <br>
-
-
-# 🌟 Thank You For Visiting My Profile
-
 
 <div align="center">
 
+# 🌟 Thank You For Visiting My Profile
 
-⭐ Explore My Projects  
-⭐ Follow My Learning Journey  
-⭐ Let's Build The Future With Technology  
-
+⭐ Explore My Projects
+⭐ Follow My Learning Journey
+⭐ Building The Future With Technology
 
 <br>
 
-
 ### 🚀 REMA FARVEEN SHAHUL HAMMED
 
-
 </div>
-```
+
+
 
 
 
