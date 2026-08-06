@@ -237,25 +237,27 @@ Software Development
 <br>
 
 # 🎮 Interactive Coding Projects
+# 🐍 GitHub Contribution Snake
 
-## 🐍 Snake Game
+<div align="center">
 
-## 🐍 Live Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Remafarveen/Remafarveen/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Remafarveen/Remafarveen/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Remafarveen/Remafarveen/output/github-contribution-grid-snake.svg">
+</picture>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Remafarveen/Remafarveen/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
-</p>
+</div>
+
 
 <br>
+# 🚀 Project Mission
 
-## 🚀 Rocket Shooting Game
+<div align="center">
 
-## 🚀 Rocket Mission
+<img src="./assets/rocket.svg" width="950" alt="Rocket Project Animation"/>
 
-<p align="center">
-  <img src="./assets/rocket.svg" width="900" alt="Rocket Project Animation">
-</p>
-<br>
+</div>
 
 # 📈 GitHub Statistics
 
