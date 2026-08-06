@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🚀 Welcome To My GitHub Profile
+#  Welcome!!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=750&lines=Hello+World!;Welcome+To+My+GitHub+Portfolio;I'm+Rema+Farveen+Shahul+Hammed;Aspiring+Software+Engineer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=750&lines=Hello+welcome+to+my+Github+profile!;Welcome+To+My+GitHub+Portfolio;I'm+Rema+Farveen+Shahul+Hammed;Aspiring+Software+Engineer"/>
 
 </div>
 
