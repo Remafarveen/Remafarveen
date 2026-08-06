@@ -1,311 +1,61 @@
-<div align="center">
-
-#  Welcome!!
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=750&lines=Hello+welcome+to+my+Github+profile!;Welcome+To+My+GitHub+Portfolio;I'm+Rema+Farveen+Shahul+Hammed;Aspiring+Software+Engineer"/>
-
-</div>
-
-<br>
-
-<h1 align="center">
-REMA FARVEEN SHAHUL HAMMED
-</h1>
-
-<p align="center">
-B.Sc Information Technology Student  
-<br>
-Aspiring Software Engineer | AI Enthusiast | Full Stack Developer
-</p>
-
-<div align="center">
-
-🚀 💻 🤖 🌐
-
-</div>
-
-<br>
-
-## 👩‍💻 About Me
-
-Hello! I am **Rema Farveen Shahul Hammed**, a B.Sc Information Technology student passionate about software development, artificial intelligence, and modern technologies.
-
-I enjoy exploring new technologies, developing creative applications, and improving my programming skills through continuous learning and practical projects.
-
-<br>
-
-## 🎯 Career Objective
-
-A motivated IT student seeking opportunities to apply my programming knowledge, technical skills, and problem-solving abilities in real-world software projects.
-
-Passionate about learning emerging technologies and creating efficient solutions while improving my development skills.
-
-Aspiring to grow as a software developer and contribute effectively in a professional technology environment.
-
-<br>
-
-## 🌟 Soft Skills
-
-| Skill                  | Strength                                        |
-| ---------------------- | ----------------------------------------------- |
-| 🧩 Problem Solving     | Logical thinking and solution-oriented approach |
-| 🤝 Team Collaboration  | Working effectively with teams                  |
-| 📚 Quick Learning      | Adapting to new technologies quickly            |
-| 💬 Communication       | Expressing ideas clearly and professionally     |
-| ⏳ Time Management      | Managing tasks with proper priorities           |
-| 🎯 Adaptability        | Flexible towards new challenges                 |
-| 🔍 Attention To Detail | Maintaining accuracy and quality                |
-| 💡 Creative Thinking   | Finding innovative approaches                   |
-
-<br>
-
-## 🌱 Learning Journey
-
-```
-Programming Fundamentals
-          |
-          ↓
-Web Development
-          |
-          ↓
-Full Stack Development
-          |
-          ↓
-Artificial Intelligence
-          |
-          ↓
-Software Development
-```
-
-<br>
-
-<div align="center">
-
-✨ Code • Learn • Create • Improve ✨
-
-</div>
-
-
-<div align="center">
-
-# 💼 Internship Experience
-
-</div>
-
-| Internship                                  | Details                                                                                                        |
-| ------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| 🌐 Web Development Internship               | Learned frontend development concepts, website structure, responsive design fundamentals, and web technologies |
-| 🤖 Artificial Intelligence Internship       | Explored AI concepts, machine learning basics, and practical AI applications                                   |
-| 💻 Python Full Stack Development Internship | Nandha Infotech, Coimbatore — Learned Python-based full stack development concepts and application workflow    |
-
-<br>
-
-<div align="center">
-
-# 🛠️ Technical Skills
-
-</div>
-
-## 👨‍💻 Programming Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,js" />
-</p>
-
-## 🌐 Web Technologies
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
-</p>
-
-## 🗄️ Database Technologies
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-## ⚙️ Tools & Platforms
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
-
-<br>
-
-# 📊 Skill Overview
-
-| Technology           | Level           |
-| -------------------- | --------------- |
-| Python               | 🟢 Intermediate |
-| Java                 | 🟢 Intermediate |
-| HTML                 | 🟢 Intermediate |
-| CSS                  | 🟢 Intermediate |
-| JavaScript           | 🟢 Intermediate |
-| SQL                  | 🟢 Intermediate |
-| RDBMS                | 🟢 Intermediate |
-| C                    | 🟡 Basic        |
-| C++                  | 🟡 Basic        |
-| React.js             | 🟡 Basic        |
-| Node.js              | 🟡 Basic        |
-| PHP                  | 🟡 Basic        |
-| MongoDB              | 🟡 Basic        |
-| Linux                | 🟡 Basic        |
-| Animation Techniques | 🟡 Basic        |
-
-<br>
-
-# 📜 Certifications & Workshops
-
-| Certification / Workshop                                                              | Category                   |
-| ------------------------------------------------------------------------------------- | -------------------------- |
-| Web Development Course                                                                | 🌐 Web Development         |
-| Web Development Internship                                                            | 🌐 Web Development         |
-| Artificial Intelligence Course                                                        | 🤖 Artificial Intelligence |
-| Artificial Intelligence Internship                                                    | 🤖 Artificial Intelligence |
-| Full Stack Development Course                                                         | 💻 Full Stack Development  |
-| Python Full Stack Development Internship — Nandha Infotech, Coimbatore                | 🐍 Python Full Stack       |
-| Java Masterclass — One Day Workshop                                                   | ☕ Java                     |
-| Future Quantum Computing Fundamentals: From Qubits To Applications — One Day Workshop | ⚛️ Quantum Computing       |
-
-<br>
-
-<div align="center">
-
-## 🚀 Areas Of Interest
-
-💻 Software Development
-🤖 Artificial Intelligence
-🌐 Full Stack Applications
-⚡ Emerging Technologies
-
-</div>
-
-
-<div align="center">
-
-# 🚀 Project Showcase
-
-</div>
-
-## 🧠 Project Mind Map
-
-```text
-                         🚀 MY PROJECTS
-
-                              ▲
-
-                              │
-
-        ┌─────────────────────┼─────────────────────┐
-
-        │                     │                     │
-
-
-     🤖 AI PROJECT        🌐 WEB PROJECT       💻 SOFTWARE PROJECT
-
-        │                     │                     │
-
-        ▼                     ▼                     ▼
-
-
-  Artificial            Full Stack          Application
- Intelligence            Web               Development
- Solutions             Development          Projects
-
-
-        │                     │                     │
-
-        └─────────────────────┼─────────────────────┘
-
-                              │
-
-                              ▼
-
-                 Creative Technology Solutions
-```
-
-<br>
-
-# ⭐ Featured Projects
-
-| Project                   | Description                                                   | Technologies                          |
-| ------------------------- | ------------------------------------------------------------- | ------------------------------------- |
-| 🤖 AI Based Project       | Application developed using AI concepts and programming logic | Python / AI Concepts                  |
-| 🌐 Full Stack Application | Web application development project                           | HTML, CSS, JavaScript, React, Node.js |
-| 💻 Software Solution      | Programming-based application focusing on problem solving     | Python / Java                         |
-
-<br>
-
-# 🎮 Interactive Coding Projects
-# 🐍 GitHub Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Remafarveen/Remafarveen/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Remafarveen/Remafarveen/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Remafarveen/Remafarveen/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
-
-<br>
-# 🚀 Project Mission
-
-<div align="center">
-
-<img src="./assets/rocket.svg" width="950" alt="Rocket Project Animation"/>
-
-</div>
-
-# 📈 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Remafarveen&show_icons=true&theme=transparent&hide_border=true"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Remafarveen&theme=transparent&hide_border=true"/>
-
-</div>
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Remafarveen&theme=algolia&no-frame=true&row=1&column=6"/>
-
-</p>
-<br>
-
-# 💻 Coding Philosophy
-
-```text
-Learn → Practice → Build → Improve
-
-Every line of code is a step towards innovation 🚀
-```
-
-<br>
-
-
-
-<div align="center">
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0f2027,100:2c5364"/>
-
-⭐ Thank you for visiting my GitHub profile ⭐
-
-🚀 Keep Learning • Keep Building • Keep Innovating
-
-</div>
-
-<br>
-
-### 🚀 REMA FARVEEN SHAHUL HAMMED
-
-</div> 
+<!-- Project 1 -->
+<g opacity="0">
+  <animate attributeName="opacity"
+           values="0;0;1;1;0"
+           keyTimes="0;0.15;0.20;0.35;1"
+           dur="12s"
+           repeatCount="indefinite"/>
+
+  <polygon points="760,120 790,170 730,170"
+           fill="#00E5FF"/>
+
+  <text x="810" y="145"
+        fill="white"
+        font-size="18"
+        font-family="Arial"
+        font-weight="bold">
+    🤖 AI Based Project
+  </text>
+</g>
+
+<!-- Project 2 -->
+<g opacity="0">
+  <animate attributeName="opacity"
+           values="0;0;1;1;0"
+           keyTimes="0;0.45;0.50;0.65;1"
+           dur="12s"
+           repeatCount="indefinite"/>
+
+  <polygon points="760,240 790,290 730,290"
+           fill="#FFD54F"/>
+
+  <text x="810" y="265"
+        fill="white"
+        font-size="18"
+        font-family="Arial"
+        font-weight="bold">
+    🌐 Full Stack Application
+  </text>
+</g>
+
+<!-- Project 3 -->
+<g opacity="0">
+  <animate attributeName="opacity"
+           values="0;0;1;1;0"
+           keyTimes="0;0.75;0.80;0.95;1"
+           dur="12s"
+           repeatCount="indefinite"/>
+
+  <polygon points="760,360 790,410 730,410"
+           fill="#FF5252"/>
+
+  <text x="810" y="385"
+        fill="white"
+        font-size="18"
+        font-family="Arial"
+        font-weight="bold">
+    💻 Software Solution
+  </text>
+</g>
+
+</svg>
