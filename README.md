@@ -1,243 +1,170 @@
-<!-- ========================== HEADER ========================== -->
+# REMA FARVEEN SHAHUL HAMMED
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=REMA%20FARVEEN%20SHAHUL%20HAMMED&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=ffffff"/>
-
-</div>
-
-<div align="center">
-
-# 👋 Welcome to My GitHub Portfolio
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Rema+Farveen+Shahul+Hammed;B.Sc+Information+Technology+Student;Aspiring+Software+Engineer;Python+%7C+AI+%7C+Full+Stack+Development;Always+Learning+Something+New+🚀"/>
-
-</div>
+**B.Sc. Information Technology | Python & Full Stack Development | AI Enthusiast**
 
 ---
 
-# 👩‍💻 About Me
+## About Me
 
-```text
-Name          : REMA FARVEEN SHAHUL HAMMED
-Degree        : B.Sc Information Technology
-Career Goal   : Software Engineer
-Interests     : AI • Python • Full Stack • Web Development
-Learning      : Building practical projects every day
-<!-- ======================== EXPERIENCE ======================== -->
-
-<h1 align="center">💼 Experience & Learning Journey</h1>
-
-<div align="center">
-
-| 🏢 Organization | 💻 Role | 📍 Location |
-|:---------------:|:-------:|:-----------:|
-| Nandha Infotech | Python Full Stack Development Intern | Coimbatore |
-
-</div>
-
-<br>
-
-## 📚 What I Learned
-
-✔ Python Programming
-
-✔ HTML5 & CSS3
-
-✔ JavaScript Fundamentals
-
-✔ Backend Development Concepts
-
-✔ Database Connectivity
-
-✔ Full Stack Application Workflow
-
-✔ Problem Solving Techniques
-
-✔ Software Development Practices
+I'm a B.Sc. Information Technology student with a passion for building practical software solutions. My focus lies in **Python development**, **full-stack web applications**, and **artificial intelligence**. I believe in learning through hands-on projects and continuously expanding my technical foundation across modern development practices.
 
 ---
 
-# 🛠️ Technical Skills
+## Certified & Practiced
 
-<div align="center">
+These are areas where I have formal training, internship experience, or dedicated coursework:
 
-### 👨‍💻 Programming Languages
+### Web Development
+![HTML5](https://img.shields.io/badge/-HTML5-E34C26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,php,javascript" />
+**Qualifications:**
+- Web Development Course
+- Web Development Internship
 
-<br><br>
+### Artificial Intelligence
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
-### 🌐 Frontend Development
+**Qualifications:**
+- AI Course
+- AI Internship
 
-<img src="https://skillicons.dev/icons?i=html,css,react" />
+### Full Stack Development
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-13AA52?style=flat&logo=mongodb&logoColor=white)
 
-<br><br>
+**Qualifications:**
+- Full Stack Development Course
+- Full Stack Development Internship
 
-### ⚙ Backend Development
+### Python Full Stack Development
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=nodejs" />
+**Qualifications:**
+- Python Full Stack Development Internship â **Nandha Infotech, Coimbatore**
 
-<br><br>
+### Java
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 
-### 🗄 Database
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-
-<br><br>
-
-### 💻 Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-
-</div>
-
----
-
-# 📊 Skill Level
-
-| Technology | Level |
-|------------|--------|
-| 🐍 Python | ⭐⭐⭐⭐☆ Intermediate |
-| ☕ Java | ⭐⭐⭐⭐☆ Intermediate |
-| 🌐 HTML | ⭐⭐⭐⭐☆ Intermediate |
-| 🎨 CSS | ⭐⭐⭐⭐☆ Intermediate |
-| ⚡ JavaScript | ⭐⭐⭐⭐☆ Intermediate |
-| 🗄 SQL | ⭐⭐⭐⭐☆ Intermediate |
-| 🗃 RDBMS | ⭐⭐⭐⭐☆ Intermediate |
-| ⚛ React | ⭐⭐☆☆☆ Basic |
-| 🟢 Node.js | ⭐⭐☆☆☆ Basic |
-| 🍃 MongoDB | ⭐⭐☆☆☆ Basic |
-| 🐘 PHP | ⭐⭐☆☆☆ Basic |
-| 💻 Linux | ⭐⭐☆☆☆ Basic |
-| 🎬 Animation Techniques | ⭐⭐☆☆☆ Basic |
-| 💙 C | ⭐⭐☆☆☆ Basic |
-| ❤️ C++ | ⭐⭐☆☆☆ Basic |
+**Qualifications:**
+- Java Masterclass â 1 Day Workshop
 
 ---
 
-# 🏆 Certifications
+## Basic / Familiar Technologies
 
-<div align="center">
+I have foundational knowledge across these technologies:
 
-| 🎖 Certification | Status |
-|-----------------|--------|
-| 🌐 Web Development Course | ✅ Completed |
-| 🌐 Web Development Internship | ✅ Completed |
-| 🤖 Artificial Intelligence Course | ✅ Completed |
-| 🤖 Artificial Intelligence Internship | ✅ Completed |
-| 🐍 Python Full Stack Development Course | ✅ Completed |
-| 💼 Python Full Stack Development Internship – Nandha Infotech, Coimbatore | ✅ Completed |
-| ☕ Java Masterclass (1-Day Workshop) | ✅ Completed |
-| ⚛ Future Quantum Computing Fundamentals: From Qubits to Applications (1-Day Workshop) | ✅ Completed |
-
-</div>
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
-# 📖 Currently Learning
+## Internship Experience
 
-```text
-Artificial Intelligence
-        │
-        ▼
-Python Full Stack Development
-        │
-        ▼
-Modern Web Technologies
-        │
-        ▼
-Software Development Best Practices
+### Python Full Stack Development Intern
+**Nandha Infotech** â Coimbatore
 
-# 🚀 Upcoming AI Projects
-
-### 🤖 AI Disaster Response Dashboard
-**Status:** 🚧 Under Development
-
-**Goal:** Build a dashboard that analyzes satellite imagery to help identify disaster-affected areas and support emergency response.
-
-**Planned Tech Stack:** Python • AI • Machine Learning • Streamlit • APIs
+Gained practical experience in full-stack development using Python and modern web frameworks during an internship focused on real-world application development.
 
 ---
 
-### 💰 AI Personal Finance & Expense Tracker
-**Status:** 🚧 Under Development
+## Featured Projects
 
-**Goal:** Develop an AI-powered finance tracker that categorizes expenses, predicts spending habits, and provides budgeting insights.
+### 01 â AI Disaster Response Dashboard using Satellite Imagery
+**AI-powered emergency response tool analyzing satellite data for rapid disaster assessment**
 
-**Planned Tech Stack:** Python • Streamlit • SQLite/MySQL • AI
+Combining satellite imagery analysis with AI to provide actionable insights for disaster response coordination.
 
----
+**Technologies:**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
-### 🖼️ AI Image vs Real Image Detection
-**Status:** 🚧 Under Development
-
-**Goal:** Create a deep learning application to determine whether an image is AI-generated or a real photograph.
-
-**Planned Tech Stack:** Python • TensorFlow/PyTorch • OpenCV • Streamlit
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Remafarveen&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Remafarveen&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Remafarveen&theme=transparent&hide_border=true"/>
-
-</div>
+[Repository](#) | [Demo](#)
 
 ---
 
-# 📈 Contribution Graph
+### 02 â AI Personal Finance & Expense Tracker
+**Intelligent expense management system with AI-driven financial insights**
 
-<div align="center">
+An AI-powered application that tracks expenses and provides personalized financial recommendations.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Remafarveen&theme=github-compact&hide_border=true"/>
+**Technologies:**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-> **Enable GitHub Actions first, then add the generated snake SVG here.**
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Remafarveen/Remafarveen/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
-</p>
+[Repository](#) | [Demo](#)
 
 ---
 
-# 🎯 2026 Goals
+### 03 â Deepfake & AI Image Detection Platform
+**Detection system for identifying synthetic and manipulated images**
 
-- ✅ Strengthen Python programming skills
-- ✅ Build AI-based applications
-- ✅ Complete Full Stack Development projects
-- ✅ Improve Data Structures and Problem Solving
-- ✅ Contribute consistently on GitHub
-- ✅ Build a professional project portfolio
+A comprehensive platform leveraging deep learning to identify deepfakes and AI-generated images with confidence scoring.
+
+**Technologies:**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
+[Repository](#) | [Demo](#)
+
+---
+
+### 04 â Sign Language to Speech Translator
+**Real-time translation of sign language gestures into audible speech**
+
+A machine learning application that bridges communication accessibility by converting sign language to speech in real-time.
+
+**Technologies:**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
+[Repository](#) | [Demo](#)
+
+---
+
+## Certifications & Training
+
+- **Web Development** Course & Internship
+- **Artificial Intelligence** Course & Internship
+- **Full Stack Development** Course & Internship
+- **Python Full Stack Development** Internship â Nandha Infotech, Coimbatore
+- **Java Masterclass** â 1 Day Workshop
+- **Future Quantum Computing Fundamentals: From Qubits to Applications** â Workshop/Program
+
+---
+
+## Education
+
+### B.Sc. Information Technology
+
+Pursuing a degree with a focus on software development, AI, and modern programming paradigms.
+
+---
+
+## Connect With Me
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/Remafarveen)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![CodePen](https://img.shields.io/badge/-CodePen-000000?style=flat&logo=codepen&logoColor=white)](https://codepen.io/your-profile)
 
 ---
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile!
-
-*"Every project is another step toward becoming a better software engineer."*
-
-⭐ If you find my work interesting, feel free to explore my repositories.
+**Building with Python | Learning with AI | Growing as a Developer**
 
 </div>
-
-
-
-
