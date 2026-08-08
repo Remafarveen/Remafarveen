@@ -1,18 +1,156 @@
-# 💫 About Me:
-About me<br>I’m a B.Sc. Information Technology student with a strong interest in Python, Full Stack Development, and Artificial Intelligence. I enjoy building practical projects, exploring new technologies, and improving my problem-solving skills through hands-on learning. I’m currently focused on strengthening my development skills and gaining real-world industry experience.<br>I’m currently searching for<br>Internship opportunities in Python Development, Full Stack Development, Web Development, and AI/ML, where I can apply my technical skills, work on real-world projects, learn from experienced professionals, and contribute to meaningful solutions.<br><br>I’m currently searching for<br>Internship opportunities in Python Development, Full Stack Development, Web Development, and AI/ML, where I can apply my technical skills, work on real-world projects, learn from experienced professionals, and contribute to meaningful solutions
+<!-- ========================= -->
 
+<!--       HERO SECTION        -->
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rema Farveen ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rema1982006@gmail.com) 
+<!-- ========================= -->
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Remafarveen&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Remafarveen&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Remafarveen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=220&section=header&text=WELCOME%20TO%20MY%20GITHUB&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=HELLO%2C+I'M+REMA+FARVEEN+SHAHUL+HAMEED;B.Sc.+INFORMATION+TECHNOLOGY+STUDENT;PYTHON+%7C+FULL+STACK+%7C+WEB+DEVELOPMENT;AI%2FML+ENTHUSIAST;WELCOME+TO+MY+GITHUB+PROFILE!"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Rema&label=PROFILE+VIEWS&color=00ffff&style=for-the-badge"/>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Remafarveen&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👋 Welcome to My GitHub
+
+<div align="center">
+
+### 🚀 **REMA FARVEEN SHAHUL HAMEED**
+
+**B.Sc. Information Technology Student | Python Developer | Full Stack Developer | AI/ML Enthusiast**
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+🎓 I’m a **B.Sc. Information Technology student** passionate about technology, development, and Artificial Intelligence.
+
+💡 I enjoy **building practical projects, exploring new technologies, solving problems, and learning through hands-on development.**
+
+🚀 Currently strengthening my skills in:
+
+* 🐍 Python Development
+* 🌐 Full Stack Development
+* 💻 Web Development
+* 🤖 Artificial Intelligence & Machine Learning
+* 🧠 Problem Solving
+
+---
+
+## 🎯 What I'm Looking For
+
+I’m currently looking for **internship opportunities** in:
+
+`Python Development` • `Full Stack Development` • `Web Development` • `AI/ML`
+
+I’m eager to:
+
+✨ Work on real-world projects
+🤝 Learn from experienced professionals
+💡 Apply my technical knowledge
+🚀 Build meaningful solutions
+📚 Continuously improve my development skills
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Programming & Development
+
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,nodejs,mysql,git,github,vscode"/>
+
+<br><br>
+
+### 🤖 AI / ML & Technologies
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
+
+</div>
+
+---
+
+## 🐍 My Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Rema/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+> ⚠️ Replace `Rema` in the snake image URL with your **exact GitHub username** if your username is different.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rema&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rema&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rema&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/Rema">
+<img src="https://img.shields.io/badge/LinkedIn-Rema%20Farveen%20Shahul%20Hameed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 🚀 Currently Learning
+
+<div align="center">
+
+`🐍 Python`
+`🌐 Full Stack Development`
+`🤖 Artificial Intelligence`
+`🧠 Machine Learning`
+`💻 Web Development`
+`⚡ Problem Solving`
+
+</div>
+
+---
+
+<div align="center">
+
+### 💫 *"Learn. Build. Improve. Repeat."*
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Projects+%F0%9F%9A%80;Learning+New+Technologies+%F0%9F%92%A1;Exploring+AI+%26+ML+%F0%9F%A4%96;Growing+as+a+Developer+%F0%9F%92%BB;Open+to+Internship+Opportunities+%F0%9F%8E%AF"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer&animation=twinkling"/>
+
+<!-- ========================= -->
+
+<!--       END OF README       -->
+
+<!-- ========================= -->
