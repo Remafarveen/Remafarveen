@@ -90,7 +90,6 @@ I’m eager to:
 
 </div>
 
-> ⚠️ Replace `Rema` in the snake image URL with your **exact GitHub username** if your username is different.
 
 ---
 
