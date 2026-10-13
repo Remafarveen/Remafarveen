@@ -86,7 +86,7 @@ I’m eager to:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Rema/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/Remafarveen/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
